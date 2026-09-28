@@ -1,0 +1,3 @@
+# Configuração do usuário
+data_path = "data/tasks.json"
+theme = "dark"  # "dark" ou "light"
